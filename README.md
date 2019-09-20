@@ -4,12 +4,12 @@ This repository contains my exercise solutions for the course "Full Stack Open 2
 
 ## Chapters
 
-0 - Fundamentals of Web apps
-1 - Introduction to React
-2 - Communicating with server
-3 - Programming a server with NodeJS and Express
-4 - Testing Express servers, user administration
-5 - Testing React apps, custom hooks
-6 - State management with Redux
-7 - React router, styling app with CSS and webpack
+0 - Fundamentals of Web apps\
+1 - Introduction to React\
+2 - Communicating with server\
+3 - Programming a server with NodeJS and Express\
+4 - Testing Express servers, user administration\
+5 - Testing React apps, custom hooks\
+6 - State management with Redux\
+7 - React router, styling app with CSS and webpack\
 8 - GraphQL
